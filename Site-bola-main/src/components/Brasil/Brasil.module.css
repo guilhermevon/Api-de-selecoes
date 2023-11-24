@@ -1,0 +1,33 @@
+h1{
+    color: #053B50;
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+th, td{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: #053B50;
+    border: solid 2px #053B50;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 55px;
+}
+
+th{
+    background-color: #053B50;
+    color: white;
+}
+
+td{
+    border-top: 0;
+    border-left: 0;
+}
+
+img{
+    width: 300px;
+}
